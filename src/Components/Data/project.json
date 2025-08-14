@@ -1,0 +1,27 @@
+[
+    {
+        "key": 1,
+        "title": "Portfolio",
+        "description": "A portfolio built with React and Vite, representing my work and projects. It includes a modern design with responsive layout and animations."
+    },
+    {
+        "key": 2,
+        "title": "Diabetes Prediction using Machine Learning",
+        "description": "A machine learning project that predicts the lilelihood of diabetes in patients using Scikit-learn. "
+    },
+    {
+        "key": 3,
+        "title": "Weather App using Java",
+        "description": "A basic weather application developed in Java that fetches and displays real-time weather data for any city. "
+    },
+    {
+        "key": 4,
+        "title": " Education-system frontend",
+        "description": "A modern and responsive education system web application built using React and styled with Tailwind CSS. "
+    },
+    {
+        "key": 5,
+        "title": "Chatbot with personality",
+        "description": "A AI-powered chatbot capable of mimicking multiple human personalities using tools like transformers, gradio. "
+    }
+]

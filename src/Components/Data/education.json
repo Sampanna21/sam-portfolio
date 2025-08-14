@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "role": "B.Tech in CSE (AIML)",
+        "organisation": "Gandhi Engineering College, Badaraghunathpur",
+        "startDate": "2022",
+        "endDate": "2026",
+        "location": "Bhubaneswar, Odisha",
+        "imageSrc": "assets/myEdu/gec.png" 
+    },
+    {
+        "id": 2,
+        "role": "Higher Secondary Education",
+        "organisation": "The College of Basic Science and Humanities, OUAT",
+        "startDate": "2018",
+        "endDate": "2020",
+        "location": "Bhubaneswar, Odisha",
+        "imageSrc": "assets/myEdu/CBSH.jpg"
+    },
+    {
+        "id": 3,
+        "role": "Schooling",
+        "organisation": "Saraswati Shishu Vidya Mandir, College Chowk",
+        "startDate": "2005",
+        "endDate": "2018",
+        "location": "Bolangir, Odisha",
+        "imageSrc": "assets/myEdu/SSVM.png" 
+    }
+
+]
