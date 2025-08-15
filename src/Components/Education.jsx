@@ -12,7 +12,6 @@ const Education = () => {
             <>
             <div key={data.id} className='ed-items text-center'>
               <div className="left">
-                <img src={`/assets/${data.imageSrc}`} alt=''/>
               </div>
               <div className='right'>
                 <h2>{data.role}</h2>

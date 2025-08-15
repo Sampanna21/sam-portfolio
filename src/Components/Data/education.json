@@ -5,8 +5,7 @@
         "organisation": "Gandhi Engineering College, Badaraghunathpur",
         "startDate": "2022",
         "endDate": "2026",
-        "location": "Bhubaneswar, Odisha",
-        "imageSrc": "assets/myEdu/gec.png" 
+        "location": "Bhubaneswar, Odisha"
     },
     {
         "id": 2,
@@ -14,8 +13,7 @@
         "organisation": "The College of Basic Science and Humanities, OUAT",
         "startDate": "2018",
         "endDate": "2020",
-        "location": "Bhubaneswar, Odisha",
-        "imageSrc": "assets/myEdu/CBSH.jpg"
+        "location": "Bhubaneswar, Odisha"
     },
     {
         "id": 3,
@@ -23,8 +21,7 @@
         "organisation": "Saraswati Shishu Vidya Mandir, College Chowk",
         "startDate": "2005",
         "endDate": "2018",
-        "location": "Bolangir, Odisha",
-        "imageSrc": "assets/myEdu/SSVM.png" 
+        "location": "Bolangir, Odisha"
     }
 
 ]
