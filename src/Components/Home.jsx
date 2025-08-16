@@ -1,6 +1,6 @@
 import React from 'react'
 import pdf from '../pdf/Blue Professional Modern CV Resume (2).pdf'
-import myImage from '../assets/myImage/me2.jpg'; // adjust path as needed
+import myImage from '../assets/myImage/me.jpg'; // adjust path as needed
 
 
 const Home = () => {

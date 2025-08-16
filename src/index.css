@@ -101,8 +101,9 @@ a {
 
 .home .right .img img{
   height: 350px;
-  width: 350px;
-  border-radius: 100%;
+  width: 340px;
+  object-fit: cover;
+  border-radius: 50%;
   border: 5px solid rgb(4, 65, 105);
   animation-name: superman;
   animation-duration: 4s;
